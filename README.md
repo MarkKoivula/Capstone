@@ -4,24 +4,24 @@ Recent high-profile police shootings of African Americans have raised questions 
 
 
 
-## <u>Motivation</u> 
+## Motivation
 
 I was motivated  by an interest in whether racial, age or gender disparities in policing and fatal officer involved shootings (FOIS) is present. 
 
-My spouse works as a <b>Federal U.S. Special Agent</b>, which allows me a unique perspective into the 'other side of the aisle' when relating to law enforcement issues. I hope to raise the awareness of the public to the need for reforms if racial, age, or gender related biases are found within the data model
+My wife works as a <b> U.S. Special Agent</b> with the OIG Service, which allows me a unique perspective into the 'other side of the aisle' when relating to law enforcement issues. I hope to raise the awareness of the public to the need for reforms if racial, age, or gender related biases are found within the data model
 
-## <u>Data Sources</u>
+## Data Sources
 
  Project data will consist of 4 different data sets, 3 for census information and 1 for police involved shooting incidents in the United States between 2000 and 2016. Incidents at the national, state and city level will be examined. The source of these data sets can be found in the 'Resources' tab.
 
-## <u>Scope of the Project </u>
+## Scope of the Project 
 - Examine the definition of Police Use of Force 
 
 - Investigate FOIS incidents from 2000- 2016 to analyze the breakdown of fatal shooting incidents by Location, Race, Age Group and Gender
 
 - Analyze areas with the most and fewest numbers of FOIS shootings to determine if any racial bias trends are evident
 
-## <u>Resources</u>
+## Resources
  ### Police Shooting Incidents
   [Police Shootings](https://data.world/awram/us-police-involved-fatalities/workspace/file?filename=z_old_data.csv)
 
